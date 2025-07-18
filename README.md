@@ -1,11 +1,11 @@
 <h1 align="center">Laboratório de Biotecnologia</h1>
 
-<p align="center">Repositório com o objetivo de solução do problema 2669</p>
+<p align="center">Repositório com o objetivo de solução do problema 2669 do Beecrowd/URI</p>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Solved-%2363cf51?style=for-the-badge" />
-  <img src="https://img.shields.io/github/languages/top/josefilho/URI-2669-CPP?color=%237159c1&style=for-the-badge" />
-  <img src="https://img.shields.io/github/size/josefilho/URI-2669-CPP/main.cpp?color=%237159c1&style=for-the-badge" />
+  <img src="https://img.shields.io/github/languages/top/josefilho/Beecrowd-2669?color=%237159c1&style=for-the-badge" />
+  <img src="https://img.shields.io/github/size/josefilho/Beecrowd-2669/2669.cpp?color=%237159c1&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Made%20By-Jose%20Carlos-%237159c1?style=for-the-badge" />
 </div>
 
@@ -37,7 +37,7 @@ Clone este repositório e abra sua pasta
 
 ```bash
 git clone https://github.com/josefilho/URI-2669-CPP.git
-cd URI-2669-CPP
+cd Beecrowd-2669
 ```
 
 Caso utilize CLion use (recomendo utilização):
@@ -52,7 +52,7 @@ Caso utilize Visual Studio Code use:
 code .
 ```
 
-_Edite apenas o código que se encontra dentro do arquivo `main.cpp`._
+_Edite apenas o código que se encontra dentro do arquivo `2669.cpp`._
 
 Não é necessário instalação de bibliotecas adicionais além das já existentes no C++.
 
@@ -67,11 +67,11 @@ Não é necessário instalação de bibliotecas adicionais além das já existen
   />
   <br />
   <sub>
-    <b>  Jose Carlos 💜</b>
+    <b>  José Carlos 💜</b>
   </sub>
 </a>
 
-Feito com ❤️ por Jose Carlos. 👋🏼 Entre em contato!
+Feito com 💜 por José Carlos. 👋🏼 Entre em contato!
 
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-Jose%20Carlos-7159c1?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/filhojosecs/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-Jose%20Carlos-7159c1?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:iamjose.filho@gmail.com)](mailto:iamjose.filho@gmail.com)

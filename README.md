@@ -29,7 +29,20 @@ O programa deve produzir uma única linha com um inteiro representando a quantid
 | abbab    |     8 |
 | dacwabhw |    26 |
 
-Caso queira mais detalhes sobre o problema, [acesse o link](https://www.beecrowd.com.br/judge/pt/problems/view/2669).
+Caso queira mais detalhes sobre o problema, [acesse o link](https://judge.beecrowd.com/pt/problems/view/2669).
+
+O problema foi resolvido utilizando a linguagem C++ e o código fonte está disponível no arquivo `2669.cpp`.
+
+Note o arquivo `Finding_submasses_in_weighted_strings_with_Fast_Fourier_Transform.pdf` que possui uma explicação acerca do algoritmo utilizado para a resolução do problema.
+
+## Motivação
+
+Em 2019 meu professor de Algoritmos e Estruturas de Dados I, Nilton César de Paula, apresentou a turma alguns problemas do Beecrowd/URI como parte da nota semestral. Um deles foi o problema 2669, que me chamou muito a atenção por ser de **Nível 10** entretanto, acredito que ele não havia notado que era impossível que um aluno do primeiro ano de Ciência da Computação conseguisse resolver o problema, visto que ele exige um conhecimento avançado de algoritmos e estruturas de dados. Na época, eu não consegui resolver o problema mas não desisti dele, nos anos subsequentes houveram muitas tentativas frustradas de resolução. Até que em 2023 apresentei o problema ao professor Rubens, que disse ser um problema interessante e que iria pesquisar sobre ele. Após alguns dias, ele me apresentou um artigo que resolvia o problema de forma eficiente utilizando a Transformada Rápida de Fourier (FFT). A partir disso, levei um tempo para entender a ideia e implementar o algoritmo, mas finalmente consegui.
+
+## Agradecimentos e referências
+
+Um profundo agradecimento ao professor [Rubens Barbosa Filho](http://lattes.cnpq.br/7880961489665197) por me mostrar que minha visão era limitada sobre o problema, além de encontrar o artigo que soluciona o problema de forma eficiente. Atualmente, o 30º colocado no ranking do Beecrowd/URI para o problema 2669 com tempo de resolução 2,333. Outro agradecimento aos autores do artigo que segue a citação abaixo:
+> Nikhil Bansal, Mark Cieliebak, Zsuzsanna Lipták, Finding submasses in weighted strings with Fast Fourier Transform, Discrete Applied Mathematics, Volume 155, Issue 6, 2007, Pages 707-718, ISSN 0166-218X, https://doi.org/10.1016/j.dam.2005.09.019.
 
 ## Instalação
 
@@ -67,7 +80,7 @@ Não é necessário instalação de bibliotecas adicionais além das já existen
   />
   <br />
   <sub>
-    <b>  José Carlos 💜</b>
+    <b>  José Carlos</b>
   </sub>
 </a>
 
